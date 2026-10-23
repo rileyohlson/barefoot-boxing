@@ -8,7 +8,7 @@ Font: Figtree (self-hosted, SIL OFL, see `fonts/OFL-Figtree.txt`). The favicon a
 Name, not-for-profit description, "COVID safe business", address 1 Kyeamba Ave Wagga Wagga NSW, phone 0421 821 144, Facebook page link, 2.2K followers.
 
 ## Still to fill in (yellow `[brackets]`)
-Who it is for, session names, "anything else to bring or wear", public holiday hours, ABN/association number, privacy approval.
+Who it is for, session names, public holiday hours, ABN/association number, privacy approval.
 Postcode is not on the page and not included. About text is the owner's own wording (supplied). The Facebook "COVID safe business" line was left out; add back if wanted.
 
 ## Before it goes live
