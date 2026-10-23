@@ -89,3 +89,4 @@ h1 span{color:var(--gold)}
 .hero .btn.alt:hover{background:var(--ink);color:#fff}
 .hero .btn:focus-visible{outline-color:var(--ink)}
 .hero{padding-bottom:var(--s5)}
+.card p+p{margin-top:var(--s2)}
