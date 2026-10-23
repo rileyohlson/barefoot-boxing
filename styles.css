@@ -76,3 +76,16 @@ h1 span{color:var(--gold)}
 .plaque{padding-bottom:0}
 .plaque .pic{max-width:36rem;margin:0 auto}
 .about{padding-bottom:var(--s5)}
+
+/* Hero: white banner built around the logo */
+.hero{background:#fff;color:var(--ink)}
+.hero .banner{display:block;width:100%;max-width:75rem;height:auto;margin:0 auto}
+.hero-text{padding-top:var(--s3);padding-bottom:0;text-align:center}
+.hero .eyebrow{color:var(--red-dark)}
+.hero h1 span{color:var(--red)}
+.hero .lede{color:var(--ink);margin-left:auto;margin-right:auto}
+.hero .btns{justify-content:center}
+.hero .btn.alt{color:var(--ink);border-color:var(--ink)}
+.hero .btn.alt:hover{background:var(--ink);color:#fff}
+.hero .btn:focus-visible{outline-color:var(--ink)}
+.hero{padding-bottom:var(--s5)}
