@@ -22,3 +22,9 @@ Postcode is not on the page and not included. About text is the owner's own word
 - Confirm the owner supplied them and is happy for them to be on the site.
 - `gym.jpg` shows identifiable people, including young people: get the owner's confirmation that everyone (or their parent or guardian) agreed to the photo being published.
 - "On Wiradjuri Country" comes from the plaque. Ask the owner whether they want it on the site and how they would like it worded.
+
+## Reviews
+Four Facebook reviews are in `#reviews` in `index.html`, spelling and punctuation kept as written (including "Bearfoot", "awsome", "exelent"). Reviewer names were not supplied, so none are shown.
+- Compare each with the live review on Facebook and keep a dated screenshot. The split between reviews 3 and 4 was inferred from the pasted text.
+- Remove a quote if the review is deleted or edited on Facebook.
+- Get the owner's OK, and ideally each reviewer's (one mentions their son).

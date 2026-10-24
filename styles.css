@@ -100,3 +100,7 @@ h1 span{color:var(--gold)}
   #merch .grid{grid-template-columns:repeat(4,1fr)}
 }
 .plaque{padding-top:0}
+
+.quotes{display:grid;gap:var(--s3);grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));margin-bottom:var(--s3)}
+blockquote{margin:0;background:var(--card);border:2px solid var(--ink);border-top:8px solid var(--red);padding:var(--s3)}
+blockquote p{margin:0}
