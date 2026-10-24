@@ -105,4 +105,4 @@ h1 span{color:var(--gold)}
 blockquote{margin:0;background:var(--card);border:2px solid var(--ink);border-top:8px solid var(--red);padding:var(--s3)}
 blockquote p{margin:0}
 @media (min-width:48rem){.quotes{grid-template-columns:repeat(2,1fr)}}
-@media (min-width:48rem){.quotes blockquote:last-child:nth-child(odd){grid-column:1/-1;text-align:center;font-weight:700;font-size:1.25rem}}
+@media (min-width:48rem){.quotes blockquote:last-child:nth-child(odd){grid-column:1/-1}}
