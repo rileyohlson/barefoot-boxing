@@ -24,7 +24,7 @@ Postcode is not on the page and not included. About text is the owner's own word
 - "On Wiradjuri Country" comes from the plaque. Ask the owner whether they want it on the site and how they would like it worded.
 
 ## Reviews
-Four Facebook reviews are in `#reviews` in `index.html`, spelling and punctuation kept as written (including "Bearfoot", "awsome", "exelent"). Reviewer names were not supplied, so none are shown.
+Five Facebook reviews are in `#reviews` in `index.html`, spelling and punctuation kept as written (including "Bearfoot", "awsome", "exelent"). Reviewer names were not supplied, so none are shown.
 - Compare each with the live review on Facebook and keep a dated screenshot. The split between reviews 3 and 4 was inferred from the pasted text.
 - Remove a quote if the review is deleted or edited on Facebook.
 - Get the owner's OK, and ideally each reviewer's (one mentions their son).
