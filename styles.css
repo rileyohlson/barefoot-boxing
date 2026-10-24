@@ -9,7 +9,7 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 1.0625rem/1.6 Figtree,system-ui,sans-serif}
-.wrap{max-width:60rem;margin:0 auto;padding:0 var(--s3)}
+.wrap{max-width:60rem;margin:0 auto;padding-left:var(--s3);padding-right:var(--s3)}
 a{color:var(--red-dark)}
 a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 .skip{position:absolute;left:-999px;background:var(--ink);color:#fff;padding:var(--s1) var(--s2)}
@@ -92,3 +92,11 @@ h1 span{color:var(--gold)}
 .card p+p{margin-top:var(--s2)}
 .rules{max-width:40rem;border-left:8px solid var(--red);padding-left:var(--s3)}
 .rules p{margin:0 0 var(--s2)}
+.rules h3{margin-top:var(--s3)}
+.rules h3:first-child{margin-top:0}
+
+@media (min-width:48rem){
+  #train .grid{grid-template-columns:repeat(2,1fr)}
+  #merch .grid{grid-template-columns:repeat(4,1fr)}
+}
+.plaque{padding-top:0}
